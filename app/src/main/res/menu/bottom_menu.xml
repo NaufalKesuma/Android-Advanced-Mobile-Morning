@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/sharedprefrence"
+        android:title="Shared Preference"
+        android:icon="@drawable/shared"/>
+
+    <item
+        android:id="@+id/manager"
+        android:title="Alarm Manager"
+        android:icon="@drawable/manager"/>
+
+</menu>
